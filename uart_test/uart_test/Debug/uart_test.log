@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Cli.cpp
+  uart_app.cpp
+e:\github\vs_uart_test\vs_uart_test\uart_test\uart_test\uart_app.cpp(14): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“const char [5]”转换为“LPCWSTR”
+  e:\github\vs_uart_test\vs_uart_test\uart_test\uart_test\uart_app.cpp(14): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+  uart_test.cpp
+  正在生成代码...
